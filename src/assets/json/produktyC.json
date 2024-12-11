@@ -1,0 +1,15 @@
+{
+    "Samochody": [
+      { "nazwa": "Peugeot"},
+      { "nazwa": "Renault"}
+    ],
+    "Elektronika": [
+      { "nazwa": "Telewizor"},
+      { "nazwa": "Tablet"}
+    ],
+    "Słodycze": [
+      { "nazwa": "Żelki" },
+      { "nazwa": "Ciastka" }
+    ]
+  }
+  

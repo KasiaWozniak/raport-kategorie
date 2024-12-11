@@ -1,0 +1,37 @@
+div {
+    margin: 10px;
+  }
+  
+  .menu, .main {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  strong {
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+  
+  
+  h1 {
+    color: #333;
+  }
+
+  body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  

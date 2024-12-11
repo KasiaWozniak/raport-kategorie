@@ -1,0 +1,15 @@
+{
+    "Samochody": [
+      { "nazwa": "Fiat"},
+      { "nazwa": "Toyota"}
+    ],
+    "Rowery": [
+      { "nazwa": "Kross" },
+      { "nazwa": "Merida" }
+    ],
+    "Napoje": [
+      { "nazwa": "CocaCola" },
+      { "nazwa": "Sprite" }
+    ]
+  }
+  

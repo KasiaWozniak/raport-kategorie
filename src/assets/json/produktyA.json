@@ -1,0 +1,16 @@
+{
+    "Samochody": [
+      { "nazwa": "Fiat"},
+      { "nazwa": "Audi"}
+    ],
+    "Słodycze": [
+      { "nazwa": "Czekolada" },
+      { "nazwa": "Cukierki" },
+      { "nazwa": "Baton" }
+    ],
+    "Elektronika": [
+      { "nazwa": "Laptop"},
+      { "nazwa": "Smartfon"}
+    ]
+  }
+  
